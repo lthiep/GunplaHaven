@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/6a919958-309d-4d19-b7a4-079a0ffe0688)
 
 
-**Gunpla Haven** is a modern e-commerce demo project designed for Gunpla enthusiasts. This platform showcases an engaging and user-friendly shopping experience, featuring a robust catalog and secure demo checkout system.
+**Gunpla Haven** is a modern e-commerce demo project designed for those curious about Gunpla or for experienced builders!
 
 ---
 
